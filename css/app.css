@@ -164,4 +164,8 @@ body {
   border-radius: 20px;
   border: transparent;
 }
+
+.selected {
+  background: #a5b5e4;
+}
 /*# sourceMappingURL=app.css.map */
