@@ -11,7 +11,6 @@
     display: flex;
     input {
         width: 100%;
-        padding: 1rem 0rem;
     }
     p {
         padding: 1rem;
@@ -27,4 +26,14 @@
     svg {
         cursor: pointer;
     }
+}
+
+@media screen and (max-width: 768px) {
+    .time-control {
+        width: 90%;
+    }
+    .play-control {
+        width: 60%;
+    }
+    
 }
